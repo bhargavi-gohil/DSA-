@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "days",
+            "request": "launch",
+            "mainClass": "SwitchCase.days",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "PATTERNS.Diamond",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "HollowPy_square",
+            "request": "launch",
+            "mainClass": "PATTERNS.HollowPy_square",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "HollowPyramid",
+            "request": "launch",
+            "mainClass": "PATTERNS.HollowPyramid",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "charTriangle",
+            "request": "launch",
+            "mainClass": "PATTERNS.charTriangle",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "PATTERNS.pattern7",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "PATTERNS.pattern5",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "PATTERNS.pattern4",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Loops.Fibonacci",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquareCube",
+            "request": "launch",
+            "mainClass": "Loops.PerfectSquareCube",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "whileLoop",
+            "request": "launch",
+            "mainClass": "Loops.whileLoop",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "sumof3",
+            "request": "launch",
+            "mainClass": "Loops.sumof3",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "nestedLoop",
+            "request": "launch",
+            "mainClass": "nestedLoop",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
