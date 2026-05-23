@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "checkVowel",
+            "request": "launch",
+            "mainClass": "Functions.checkVowel",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "Functions.table",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "Functions.functions",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "cross",
             "request": "launch",
             "mainClass": "PATTERNS.cross",
