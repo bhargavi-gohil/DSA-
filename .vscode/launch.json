@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cross",
+            "request": "launch",
+            "mainClass": "PATTERNS.cross",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "stairCase",
+            "request": "launch",
+            "mainClass": "PATTERNS.stairCase",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "days",
             "request": "launch",
             "mainClass": "SwitchCase.days",
