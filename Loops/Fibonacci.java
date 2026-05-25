@@ -19,6 +19,14 @@ public class Fibonacci {
         // if user enter for 3 terms it will print 0 1 1 2
         // System.out.print(first + " "); // 0 1 1 2
         
+
+        // int[] fib = new int[umber];
+        // if(number >= 1) fib[0]=0;
+        // if(number >= 2) fib[1] = 1;
+        
+        // for(int i=2; i<number; i++){
+        //     fib[i] = fib[i - 1]+ fib[i - 2];
+        // }
         sc.close();
     }
 }

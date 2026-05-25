@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "charCheck",
+            "request": "launch",
+            "mainClass": "charCheck",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "AgeInDays",
+            "request": "launch",
+            "mainClass": "AgeInDays",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Questions",
+            "request": "launch",
+            "mainClass": "Functions.Questions",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "digitCount",
+            "request": "launch",
+            "mainClass": "Functions.digitCount",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "SUM",
+            "request": "launch",
+            "mainClass": "Functions.SUM",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Evens",
+            "request": "launch",
+            "mainClass": "Functions.Evens",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "returnType",
+            "request": "launch",
+            "mainClass": "Functions.returnType",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "SwitchCase.calculator",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "charCheck",
+            "request": "launch",
+            "mainClass": "Conditional.charCheck",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "checkVowel",
             "request": "launch",
             "mainClass": "Functions.checkVowel",
