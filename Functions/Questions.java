@@ -78,6 +78,31 @@ public class Questions{
         }
         return res;
     }
+    // --------------------------- decimal to binary ------------------------------------------------
+    public static int binary(int num){
+        int ans = 0;
+        int place = 1;
+        while(num > 0){
+            int rem = num % 2;
+            ans = ans+rem*place;
+            place *= 10; // update place value...
+            num /= 2;
+        }
+        return ans;
+    }
+    // ------------------------- Binary to decimal ----------------------------------------
+    public static int decimal(int num){
+        int ans = 0;
+        int place = 1;
+        while(num > 0){
+            int digit = num % 10;
+            ans = ans + digit*place;
+            place = place*2;
+            num /= 10;
+        }
+        return ans; 
+        // Method 2 String --> at GFG
+    }
     public static void main(String[] args) {
         // System.out.println("Sum of Even number: ");
         // System.out.println(add(1,10));  // sum of even num
@@ -87,7 +112,10 @@ public class Questions{
         // System.out.println(ncr(1,2)); // ncr
 
         // System.out.println(conc("saumya!"));
+
         // System.out.println(check(245));
         // System.out.println(replaceZero(250));
+        // System.out.println(binary(50));  // decimal to binary
+        // System.out.println(decimal(1010));  // binary to decimal
     }
 }
