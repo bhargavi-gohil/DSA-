@@ -103,6 +103,39 @@ public class Questions{
         return ans; 
         // Method 2 String --> at GFG
     }
+    // ------------------------ decimal to octal ---------------------------------
+     public static int octal(int num){
+        int ans = 0;
+        int place = 1;
+        while(num > 0){
+            int rem = num % 8;
+            ans = ans+rem*place;
+            place *= 10; // update place value...
+            num /= 8;
+        }
+        return ans;
+    }
+    //=----------------------------- octal to decimal -------------------------------------------
+   public static int octalTodecimal(int num){
+        int place = 1;
+        int ans = 0;
+
+        int base = 10;
+
+        while(num > 0){
+            int remainder = num % base;
+            ans = ans + place * remainder;
+            place = place * 8;
+            num = num/10;
+        }
+        return ans;
+   }
+    
+    // -------------------- Octal to Binary --> decimal -------------------------------------------------------
+    //  
+
+
+
     public static void main(String[] args) {
         // System.out.println("Sum of Even number: ");
         // System.out.println(add(1,10));  // sum of even num
@@ -117,5 +150,6 @@ public class Questions{
         // System.out.println(replaceZero(250));
         // System.out.println(binary(50));  // decimal to binary
         // System.out.println(decimal(1010));  // binary to decimal
+        System.out.println(octal(800));
     }
 }
