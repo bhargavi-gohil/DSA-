@@ -16,8 +16,8 @@ This repository provides:
 
 ## 📑 Contents
 - Basic java
---> DataTypes, Loops, Functions , Recursion
-
+--> DataTypes, Loops, Functions , Recursion , base Conversion
+--> 1. Array
 ---
 
 ## 🛠️ Tech Stack
