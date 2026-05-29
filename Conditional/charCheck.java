@@ -1,4 +1,3 @@
-// package Conditional;
 import java.util.*;
 public class charCheck {
     public static void main(String[] args) {

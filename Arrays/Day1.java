@@ -1,4 +1,3 @@
-package Arrays;
 /*  
 --> int[] arr; - array declaration
 --> int[] arr = new int[n]; --> initialize (empty!)
@@ -20,6 +19,7 @@ public class Day1 {
         for(int i=0; i<n; i++){
             System.out.print(arr[i]+" ");
         }
+        sc.close();
     }
     public static boolean linearSearch2(int n,int target){
         int[] arr = new int[n];

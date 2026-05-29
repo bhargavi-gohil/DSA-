@@ -1,4 +1,3 @@
-// package Conditional;
 import java.util.Scanner;
 public class AgeInDays {
     public static void main(String[] args) {
@@ -13,5 +12,6 @@ public class AgeInDays {
         System.out.println(years + " years");
         System.out.println(months + " months");
         System.out.println(days + " days");
+        sc.close();
     }
 }

@@ -17,7 +17,6 @@ public class Questions{
         int count = 0;
     
         while(num > 0){
-            int DIGIT = num % 10;
             num /= 10;
             count++;
         }

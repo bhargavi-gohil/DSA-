@@ -1,6 +1,3 @@
-// package Conditional;
-
-
 
 import java.util.*;
 public class IfElse {

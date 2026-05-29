@@ -1,4 +1,3 @@
-package Arrays;
 // You have been given an array arr that might contain duplicate elements. Your task is to 
 // find the maximum possible distance between occurrences of two repeating elements 
 // i.e. elements having the same value. If there are no duplicate elements in the array, print 0

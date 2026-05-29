@@ -22,5 +22,6 @@ public class checkVowel {
         }else{
             System.out.println(ch +" not a vowel");
         }
+        sc.close();
     }
 }

@@ -8,6 +8,20 @@
             "type": "java",
             "name": "substraction",
             "request": "launch",
+            "mainClass": "substraction",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "ElementSum",
+            "request": "launch",
+            "mainClass": "ElementSum",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "substraction",
+            "request": "launch",
             "mainClass": "Arrays.substraction",
             "projectName": "DSA_a9e091f2"
         },

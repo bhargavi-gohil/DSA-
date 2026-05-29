@@ -1,4 +1,3 @@
-package Arrays;
 // IF ARRAY ELEMENTS ARE GREATER THAT ZERO (ONLY VALID FOR POSITIVE INTEGERS)
 public class secLargest {
 
