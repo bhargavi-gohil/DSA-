@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "substraction",
+            "request": "launch",
+            "mainClass": "Arrays.substraction",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "LessthanX",
+            "request": "launch",
+            "mainClass": "Arrays.LessthanX",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "duplicate",
+            "request": "launch",
+            "mainClass": "Arrays.duplicate",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "secLargest",
+            "request": "launch",
+            "mainClass": "Arrays.secLargest",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "FindDistance",
+            "request": "launch",
+            "mainClass": "Arrays.FindDistance",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "toDecimal",
+            "request": "launch",
+            "mainClass": "Functions.toDecimal",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Day1",
+            "request": "launch",
+            "mainClass": "Arrays.Day1",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "charCheck",
             "request": "launch",
             "mainClass": "charCheck",

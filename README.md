@@ -9,7 +9,7 @@ Includes clean implementations, problem sets, and revision notes for **coding in
 This repository provides:
 - 📂 **Java implementations** of core DSA concepts
 - 📝 Notes and cheat sheets for quick revision
-- 🎯 Problem sets inspired by **InterviewBit, LeetCode, Codeforces, CodeChef and GFG**
+- 🎯 Problem sets inspired by **InterviewBit, LeetCode, CodeForces, CodeChef and GFG**
 - 🛠️ Structured solutions with clear logic and comments
 
 ---
